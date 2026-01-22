@@ -104,7 +104,3 @@ We implement and benchmark multiple **text-only, image-only, and multimodal mode
 - **Environment:** Google Colab
 
 ---
-
-## 👩‍💻 Authors
-B.Tech (AI & ML) – Multimodal Machine Learning Project  
-Indira Gandhi Delhi Technical University for Women (IGDTUW)
